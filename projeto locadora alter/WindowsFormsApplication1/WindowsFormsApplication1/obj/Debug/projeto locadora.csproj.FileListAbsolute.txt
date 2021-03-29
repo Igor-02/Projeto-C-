@@ -1,0 +1,82 @@
+G:\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.view.FrmCategoria.resources
+G:\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.view.FrmCliente.resources
+G:\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.view.FrmFIlme.resources
+G:\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\projeto locadora.csproj.GenerateResource.Cache
+G:\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\projeto locadora.csprojResolveAssemblyReference.cache
+G:\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.view.FrmMenu.resources
+G:\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.view.FrmLogin.resources
+F:\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+F:\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.view.FrmCategoria.resources
+F:\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.view.FrmCliente.resources
+F:\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.view.FrmFIlme.resources
+F:\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.view.FrmLogin.resources
+F:\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.view.FrmMenu.resources
+F:\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\projeto locadora.csproj.GenerateResource.Cache
+F:\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Técnico\Desktop\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Técnico\Desktop\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Técnico\Desktop\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Técnico\Desktop\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Técnico\Desktop\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Técnico\Desktop\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+C:\Users\Técnico\Desktop\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\projeto locadora.csprojResolveAssemblyReference.cache
+C:\Users\Técnico\Desktop\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Técnico\Desktop\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.view.FrmCategoria.resources
+C:\Users\Técnico\Desktop\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.view.FrmCliente.resources
+C:\Users\Técnico\Desktop\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.view.FrmFIlme.resources
+C:\Users\Técnico\Desktop\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.view.FrmLogin.resources
+C:\Users\Técnico\Desktop\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.view.FrmMenu.resources
+C:\Users\Técnico\Desktop\projeto locadora\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\projeto locadora.csproj.GenerateResource.Cache
+G:\Pasta Pedro Jr\DESNVOLVIMENTO SISTEMAS 2MODULO\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+G:\Pasta Pedro Jr\DESNVOLVIMENTO SISTEMAS 2MODULO\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+G:\Pasta Pedro Jr\DESNVOLVIMENTO SISTEMAS 2MODULO\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+G:\Pasta Pedro Jr\DESNVOLVIMENTO SISTEMAS 2MODULO\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+G:\Pasta Pedro Jr\DESNVOLVIMENTO SISTEMAS 2MODULO\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+G:\Pasta Pedro Jr\DESNVOLVIMENTO SISTEMAS 2MODULO\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+G:\Pasta Pedro Jr\DESNVOLVIMENTO SISTEMAS 2MODULO\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\projeto locadora.csprojResolveAssemblyReference.cache
+G:\Pasta Pedro Jr\DESNVOLVIMENTO SISTEMAS 2MODULO\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Pasta Pedro Jr\DESNVOLVIMENTO SISTEMAS 2MODULO\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.view.FrmCategoria.resources
+G:\Pasta Pedro Jr\DESNVOLVIMENTO SISTEMAS 2MODULO\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.view.FrmCliente.resources
+G:\Pasta Pedro Jr\DESNVOLVIMENTO SISTEMAS 2MODULO\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.view.FrmFIlme.resources
+G:\Pasta Pedro Jr\DESNVOLVIMENTO SISTEMAS 2MODULO\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.view.FrmLogin.resources
+G:\Pasta Pedro Jr\DESNVOLVIMENTO SISTEMAS 2MODULO\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.view.FrmMenu.resources
+G:\Pasta Pedro Jr\DESNVOLVIMENTO SISTEMAS 2MODULO\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.view.FrmRelClientes.resources
+G:\Pasta Pedro Jr\DESNVOLVIMENTO SISTEMAS 2MODULO\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\projeto locadora.csproj.GenerateResource.Cache
+G:\Pasta Pedro Jr\DESNVOLVIMENTO SISTEMAS 2MODULO\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+G:\Pasta Pedro Jr\DESNVOLVIMENTO SISTEMAS 2MODULO\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+G:\Pasta Pedro Jr\DESNVOLVIMENTO SISTEMAS 2MODULO\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.view.FrmRelatorios.resources
+F:\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+F:\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+F:\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+F:\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+F:\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+F:\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\MySql.Data.dll
+F:\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\projeto locadora.csprojResolveAssemblyReference.cache
+F:\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.view.FrmCategoria.resources
+F:\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.view.FrmCliente.resources
+F:\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.view.FrmFIlme.resources
+F:\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.view.FrmLogin.resources
+F:\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.view.FrmMenu.resources
+F:\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.view.FrmRelatorios.resources
+F:\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.view.FrmRelClientes.resources
+F:\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\projeto locadora.csproj.GenerateResource.Cache
+F:\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RdlCompile.cache
+F:\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\RdlCompile.compiled
+K:\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+K:\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+K:\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\User\Desktop\etec -desenvilmento de software\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\User\Desktop\etec -desenvilmento de software\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\User\Desktop\etec -desenvilmento de software\projeto locadora alter\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
